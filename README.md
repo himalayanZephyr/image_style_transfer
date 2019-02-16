@@ -5,7 +5,7 @@ to the content of another image. This process is also known as Neural Transfer.
 The idea is to use the feature maps learned during the training of a CNN model to take a new image and reproduce it with a new artistic style.
 
 ## Implementation
-The code was implemented using Pytorch 1.0 and the code was ran on Google Colab.
+The code was implemented using Pytorch 1.0 and ran on Google Colab.
 
 Following results were attempted to replicate as shown in the paper:-
 
